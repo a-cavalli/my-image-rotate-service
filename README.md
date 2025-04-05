@@ -1,8 +1,3 @@
-# Create a new service (generic) template
+# Image Rotate
 
-This repository contains the Python + FastAPI template to create a service
-without a model or from an existing model compatible with the Core engine.
-
-Please read the documentation at
-<https://docs.swiss-ai-center.ch/how-to-guides/how-to-create-a-new-service> to
-understand how to use this template.
+This service rotates an image by 90, 180 or 270 degrees clockwise.
